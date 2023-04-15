@@ -1,0 +1,24 @@
+*{ box-sizing : border-box;
+    Margin:0}
+    @font-face {
+        font-family: Poppins;
+        src: url(Poppins-Black.ttf);
+    }
+body{
+    background-color: rgba(250, 217, 97, 1);
+}
+.image{
+    margin-right: -1000px;
+    border-radius: 50%;
+}
+.text{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 27.451px;
+    line-height: 27px;
+    /* identical to box height, or 99% */
+    color: #000000;
+    margin-left:40px;
+    margin-top: -30px;
+}
